@@ -1,0 +1,5 @@
+project: rnshah9/simplecpp
+target: simplecpp
+
+cmds:
+  - cmd: /repo/simplecpp @@
