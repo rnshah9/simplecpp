@@ -2,4 +2,4 @@ project: simplecpp
 target: simplecpp
 
 cmds:
-  - cmd: /repo/simplecpp @@
+  - cmd: /simplecpp @@
